@@ -1,0 +1,19 @@
+.div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.img {
+  margin-top: 100px;
+  height: 350px;
+  width: 380px;
+}
+
+h1 {
+  margin-top: 80px;
+  font-family: roboto;
+  font-size: 80px;
+  color: #551e53;
+}
